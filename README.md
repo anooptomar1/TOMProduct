@@ -6,4 +6,5 @@
 - [x] Display the products nicely in a scrollable list including their name, their image, their description, and their price. Use our existing app for an idea of our asthetic.
 - [x] Sorting the list of products by price
 - [x] Allowing the user to swipe left and remove a product from the list, never to see it appear again
-![alt tag](https://raw.githubusercontent.com/anooptomar1/)
+
+![alt tag](https://github.com/anooptomar1/TOMProduct/blob/master/TOMProduct/screenshot.gif)
